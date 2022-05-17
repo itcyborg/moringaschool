@@ -9,7 +9,7 @@ Moringaschool demo app
 5. Install mysql/ mariadb, instructions on this an be found in their respective official websites [mariadb: https://mariadb.org/documentation/], [mysql: https://dev.mysql.com/doc/]
 6. cd into the project directory, edit config.json file in `YOUR_PROJECT_DIR/config` direcory and set the respective database configuration for your instance
 7. in your terminal at your project's base directory run `sequelize db:migrate` to populate your database with the projets tables
-8. run `npm run start` and follow install the user interface at [https://github.com/itcyborg/moringaui], or access the API's below via base url: http://localhost:3000 
+8. run `npm run start` and follow install the user interface at [https://github.com/itcyborg/moringaui], or access the API's below via base url: http://localhost:3000 for local deployment or online using https://moringasrv.laragrade.com
 
 
 # API documentation
